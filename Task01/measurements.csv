@@ -1,0 +1,10 @@
+tickets,fields,method,run,elapsed_ms,memory_before_bytes,memory_after_bytes,notes
+1,6,String+,1,,,, 
+1,6,StringBuilder,1,,,,
+1,6,StringBuffer,1,,,,
+10000,50,String+,1,,,,
+10000,50,StringBuilder,1,,,,
+10000,50,StringBuffer,1,,,,
+2000,100,String+,1,,,,
+2000,100,StringBuilder,1,,,,
+2000,100,StringBuffer,1,,,,
