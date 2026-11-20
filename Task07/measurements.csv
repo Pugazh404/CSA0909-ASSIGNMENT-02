@@ -1,0 +1,4 @@
+records,queries,run,linear_ms,index_build_plus_queries_ms,linear_found,indexed_found,notes
+1000,1000,1,,,,,
+10000,10000,1,,,,,
+50000,50000,1,,,,,
