@@ -1,0 +1,10 @@
+medicine_count,map,lookup_count,run,lookup_ms,report_ms,order_verified
+1000,HashMap,100000,1,,,
+1000,TreeMap,100000,1,,,
+1000,LinkedHashMap,100000,1,,,
+10000,HashMap,100000,1,,,
+10000,TreeMap,100000,1,,,
+10000,LinkedHashMap,100000,1,,,
+50000,HashMap,100000,1,,,
+50000,TreeMap,100000,1,,,
+50000,LinkedHashMap,100000,1,,,
